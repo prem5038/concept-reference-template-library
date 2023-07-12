@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.prem.spring</groupId>
 	<artifactId>spring-data-jpa</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>spring-data-jpa</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>

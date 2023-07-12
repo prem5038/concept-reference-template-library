@@ -5,7 +5,7 @@
 	
 	<groupId>com.prem.spring</groupId>
 	<artifactId>concept-reference-template-library</artifactId>
-	<version>1.0.0-RELEASE</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Concept Reference Template Library</name>
 	<description>Quick start template project for spring and camel</description>
@@ -17,8 +17,10 @@
 		<module>camel-spring-boot-jpa</module>
 		<module>camel-spring-tx-data-jpa</module>
 		<module>spring-data-jpa</module>
+		<module>spring-tx-data-jpa</module>
 		<module>spring-jdbc</module>
 		<module>spring-tx-jdbc</module>
+
 	</modules>
 	
 

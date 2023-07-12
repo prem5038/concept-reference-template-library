@@ -16,11 +16,11 @@
 		<module>camel-spring-boot</module>
 		<module>camel-spring-boot-jpa</module>
 		<module>camel-spring-tx-data-jpa</module>
+		<module>camel-spring-solace-jpa</module>
 		<module>spring-data-jpa</module>
 		<module>spring-tx-data-jpa</module>
 		<module>spring-jdbc</module>
 		<module>spring-tx-jdbc</module>
-
 	</modules>
 	
 
